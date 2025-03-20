@@ -54,6 +54,6 @@ class Program
         MeuMetedo(10, 10);
         Console.WriteLine(resultado);
 
-        int idade = 0;
+
     }
 }
