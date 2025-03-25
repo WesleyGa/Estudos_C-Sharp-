@@ -25,6 +25,7 @@ namespace MeuApp
             Console.WriteLine(mouse.PriceInDolar(6));
             Console.WriteLine(mouse.Type);
             Console.WriteLine((int)mouse.Type);
+            Console.WriteLine(manutencaoEletrica.Type);
         }
     }
 
